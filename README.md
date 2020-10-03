@@ -10,6 +10,6 @@
     <p>这是一个段落</p>
   </body>
 <body>
-  <p>
-    <img src="C:\Users\Lenovo\Desktop\20103062341.jpg">
-    <p/>
+  <p><img src="C:\Users\Lenovo\Desktop\20103062341.jpg"> <p/>
+    
+   
